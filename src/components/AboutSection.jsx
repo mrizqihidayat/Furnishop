@@ -1,6 +1,6 @@
 import React from 'react';
 import about from '../assets/about.png';
-import shape from '../assets/shape.svg';
+import shape from '../assets/Shape.svg';
 
 const AboutSection = () => {
 
