@@ -1,0 +1,17 @@
+:root {
+  font-family: 'Saira', sans-serif;
+  line-height: 1.5;
+  font-weight: 400;
+  background-color: #ffffff;
+  color: #23262F;
+  text-rendering: optimizeLegibility;
+  -webkit-font-smoothing: antialiased;
+}
+
+html, body, #root {
+  font-family: 'Saira', sans-serif;
+}
+
+* {
+  font-family: inherit;
+}
