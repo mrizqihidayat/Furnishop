@@ -1,5 +1,5 @@
 import React from 'react';
-import furniture from '../assets/furniture.png';
+import furniture from '../assets/Furniture.png';
 
 const TheBestSection = () => {
 
