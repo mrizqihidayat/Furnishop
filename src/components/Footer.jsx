@@ -1,5 +1,5 @@
 import React from 'react'; 
-import ig from '../assets/instagramIcon.svg';
+import ig from '../assets/InstagramIcon.svg';
 import fb from '../assets/FacebookIcon.svg';
 import tw from '../assets/TwitterIcon.svg';
 import gh from '../assets/GithubIcon.svg';
